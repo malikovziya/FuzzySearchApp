@@ -11,4 +11,4 @@ This is an Android app that checks spelling and suggests corrections using the *
 - **Clear Button**: Allows users to reset the search and suggestions.
 
 ## Screen Recordings
-![Screen Recording](https://drive.google.com/file/d/18lugaj3rpeQay4yTgrwIVp4fI5sNWDjA/view?usp=sharing)
+[Screen Recording](https://drive.google.com/file/d/18lugaj3rpeQay4yTgrwIVp4fI5sNWDjA/view?usp=sharing)
